@@ -4,7 +4,7 @@
 
 ## Follow steps to setup project
 
-- Copy .env.example as .env using cmd copy .env.example .env.
+- Create .env file for setting up database
 - Update your composer using command composer update in cmd.
 - Generate application key using php artisan key:generate.
 - Setup your .env file.
